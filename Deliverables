@@ -1,0 +1,6 @@
+Core Deliverables;
+1. Fetch the stocks and render all of them into the page. (styling is provided)
+2. Allow a user to buy a stock by clicking on it, when bought it should be added to MyPortfolio
+3. Allow a user to sell a stock in their portfolio by clicking on the stock and it should be removed from their Porfolio
+4. Allow a user to sort the list of stocks alphabetically by the ticker name as well as by ascending price
+5. Allow a user to filter stocks based on the type of stock.
